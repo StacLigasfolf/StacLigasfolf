@@ -1,15 +1,13 @@
 # Python-Developer  
-- - Автоматизация
-- - Работа с данными
-- - Алгоритмизация 
-- - Веб-приложения
-- - Боты и Голосовые ассистенты
+-  Автоматизация
+-  Работа с данными
+-  Алгоритмизация 
+-  Веб-приложения
+-  Боты и Голосовые ассистенты
 
-
+📈 GitHub Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=StacLigasfolf&show_icons=true&theme=radical)
 <br />
-
-
 
 
 # Technology
@@ -19,19 +17,16 @@
 <img align="left" width="26px" src="https://img.icons8.com/color/344/mysql-logo.png">
 
 
-
-
-
 ## Highlights
 <table>
     <tr>
-        <th>Inline-diff</th>
+        <th>Landing page</th>
         <th>Status dashboard</th>
     </tr>
     <tr>
         <td width="50%">
-            <a href="https://cloud.githubusercontent.com/assets/5016978/6471628/886430f8-c1a1-11e4-99e9-883837dba86f.gif">
-                <img src="https://cloud.githubusercontent.com/assets/5016978/6471628/886430f8-c1a1-11e4-99e9-883837dba86f.gif" width="100%">
+            <a href="C:\Users\MarkLiman\Documents\GitHub\StacLigasfolf">
+                <img src="C:\Users\MarkLiman\Documents\GitHub\StacLigasfolf" width="100%">
             </a>
         </td>
         <td width="50%">
