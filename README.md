@@ -15,12 +15,12 @@
 <br />
 
 # 🐍 Python-Developer  
-- ☯ Лэндинги и веб приложения<br>
-- ☯ Чатботы для Discord / Telegram<br>
-- ☯ Голосовые ассистенты с иммитацией ИИ <br>
-- ☯ Массовый парсинг данных из сети <br>
-- ☯ Работа и оптимизация данных / структур<br>
-- ☯ Алгоритмизация и MySQL<br>
+- <img align="left" width="26px" src="https://img.icons8.com/color/344/html-5--v1.png"> Лэндинги и веб приложения<br>
+- <img align="left" width="26px" src="https://img.icons8.com/color/344/python--v1.png"> Чатботы для Discord / Telegram<br>
+- <img align="left" width="26px" src="https://img.icons8.com/color/344/python--v1.png"> Голосовые ассистенты с иммитацией ИИ <br>
+- <img align="left" width="26px" src="https://img.icons8.com/color/344/python--v1.png">Массовый парсинг данных из сети <br>
+- <img align="left" width="26px" src="https://img.icons8.com/color/344/python--v1.png"> Работа и оптимизация данных / структур<br>
+- <img align="left" width="26px" src="https://img.icons8.com/color/344/mysql-logo.png"> Алгоритмизация и MySQL<br>
 
 <br>
 
