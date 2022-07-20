@@ -2,7 +2,7 @@
 
 Навожу порядок в хаосе, превращаю кофе в код, автоматизирую процессы, постоянно развиваюсь
 Как говорил дедушка Джопс: "Все в этом мире должны научиться программировать, потому что программирование учит думать"
-<br />
+<br>
 # 👨‍💻 Technology and IDE
 <img align="left" width="26px" src="https://img.icons8.com/color/344/python--v1.png">
 <img align="left" width="26px" src="https://img.icons8.com/color/344/intellij-idea.png">
@@ -12,7 +12,7 @@
 <img align="left" width="26px" src="https://img.icons8.com/dusk/344/css3.png">
 <img align="left" width="26px" src="https://img.icons8.com/color/344/mysql-logo.png">
 
-<br />
+<br>
 # 🐍 Python-Developer  
 - ✅ Лэндинги и веб приложения
 - ✅ Чатботы для Discord / Telegram
@@ -21,14 +21,14 @@
 - ✅ Работа и оптимизация данных / структур
 - ✅ Алгоритмизация и MySQL
 
-<br />
+<br>
 
 # 🙂 GitHub Stats
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=StacLigasfolf&show_icons=true&theme=radical)
-<br />
+<br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StacLigasfolf&langs_count=8)
-<br />
+<br>
 
 
 
