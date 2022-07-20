@@ -25,8 +25,8 @@
     </tr>
     <tr>
         <td width="50%">
-            <a href="C:\Users\MarkLiman\Documents\GitHub\StacLigasfolf">
-                <img src="C:\Users\MarkLiman\Documents\GitHub\StacLigasfolf" width="100%">
+            <a href="https://drive.google.com/file/d/1j9jBYtLyWD82LsY0xQ_yx2GsaZq6Tcg4/view?usp=sharing">
+                <img src="https://drive.google.com/file/d/1j9jBYtLyWD82LsY0xQ_yx2GsaZq6Tcg4/view?usp=sharing" width="100%">
             </a>
         </td>
         <td width="50%">
