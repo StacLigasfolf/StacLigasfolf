@@ -1,30 +1,17 @@
-# GitSavvy
+# Python-Developer  
+- - Автоматизация
+- - Работа с данными
+- - Алгоритмизация 
+- - Веб-приложения
+- - Боты и Голосовые ассистенты
 
-[![Build Status](https://travis-ci.org/timbrel/GitSavvy.svg?branch=master)](https://travis-ci.org/timbrel/GitSavvy)
-[![AppVeyor branch](https://img.shields.io/appveyor/ci/divmain/GitSavvy/master.svg)](https://ci.appveyor.com/project/divmain/GitSavvy)
-[![Coverage Status](https://coveralls.io/repos/github/timbrel/GitSavvy/badge.svg)](https://coveralls.io/github/timbrel/GitSavvy)
-![License](https://camo.githubusercontent.com/890acbdcb87868b382af9a4b1fac507b9659d9bf/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c6963656e73652d4d49542d626c75652e737667)
+# Technology
+<img align="left" width="26px" src="https://img.icons8.com/color/344/python--v1.png">
+<img align="left" width="26px" src="https://img.icons8.com/color/344/html-5--v1.png">
+<img align="left" width="26px" src="https://img.icons8.com/dusk/344/css3.png">
+<img align="left" width="26px" src="https://img.icons8.com/color/344/mysql-logo.png">
 
-Sublime Text 3 plugin providing the following features:
-
-- basic Git functionality; `init`, `add`, `commit`, `amend`, `checkout`, `pull`, `push`, etc.
-- inline diff viewing, including quick navigation between modified hunks and the ability to (un)stage files by hunk or by line (respectfully stolen from SourceTree, GitX, et al)
-- GitHub integration
-    + issue/collaborator referencing when committing
-    + opening the current file on GitHub at the selected line
-- GitHub-style blame view, showing hunk metadata and ability to view the commit that made the change
-- `git diff` view, allowing user to (un)stage hunks across all files
-- status, branch, tag, and rebase dashboards
-
-**Note:** GitSavvy requires Git versions at or greater than 2.18.0.
-
-**Note:** Sublime Text 2 is not supported.  Also, GitSavvy takes advantage of certain features of ST3 that have bugs in earlier ST3 releases.  For the best experience, use the latest ST3 dev build.
-
-
-## Documentation
-
-Feature documentation can be found [here](docs/README.md).  It can also be accessed from within Sublime by opening the command palette and typing `GitSavvy: help`.
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mark Liman&show_icons=true&theme=radical)
 
 ## Highlights
 
