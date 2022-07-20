@@ -2,18 +2,18 @@
 
 # 🙋 Welcome ![](https://komarev.com/ghpvc/?username=StacLigasfolf&color=blueviolet&style=for-the-badge)
 
-<b>Навожу порядок в хаосе, превращаю кофе в код, автоматизирую процессы, постоянно развиваюсь</b><br>
-<b>Как говорил дедушка Джопс: "Все в этом мире должны научиться программировать, потому что программирование учит думать"</b>
+<b>I bring order to chaos, I turn coffee into code, I automate processes, I constantly develop</b><br>
+<b>As Grandpa Jops said: "Everyone in this world should learn to program, because programming teaches you to think"</b>
 <br />
 
 # 😁 About me
 <br>
  <b>
-    ✌️ Привет, меня зовут Ашот и мне 22 года, занимаюсь программированеим 1 год, изучаю новые технологии и продвигаюсь по своему пути в IT <br>
-    🎓У меня есть опыт работы на фрилансе, сталкивался с такими задачами как: Лэндинги, Чат-боты для Discord / Telegram, Веб-прилочения, голосовые ассистенты, парсинг данных. 
-    На данный момент учусь в GeekBrains для лучшего понимания концепции разработки и работе в команде, а так-же улучшению своих знаний и навыков. <br>
-    👩‍💻 На данный момент работаю над интернет магазином и голосовым ассистентом. <br>
-    🎸 Так-же в свободное время играю на гитаре  <br>
+    ✌️ Hello, my name is Ashot and I am 22 years old, I have been programming for 1 year, I am studying new technologies and moving along my path in IT <br>
+    🎓I have freelancing experience, faced such tasks as: Landing pages, Chatbots for Discord / Telegram, Web applications, voice assistants, data parsing.
+     At the moment I am studying at GeekBrains to better understand the concept of development and work in a team, as well as improve my knowledge and skills. <br>
+    👩‍💻 At the moment I am working on an online store and a voice assistant. <br>
+    🎸 I also play the guitar in my free time.  <br>
  </b>
 
 
@@ -26,12 +26,12 @@
 <img align="left" width="26px" src="https://img.icons8.com/dusk/344/css3.png">
 <img align="left" width="26px" src="https://img.icons8.com/color/344/mysql-logo.png"><br>
 <br>
-🟣 <b>Лэндинги и веб приложения</b><br>
-🟣 <b>Чатботы для Discord / Telegram</b><br>
-🟣 <b>Голосовые ассистенты с иммитацией ИИ</b> <br>
-🟣 <b>Массовый парсинг данных из сети</b> <br>
-🟣 <b>Работа и оптимизация данных / структур</b><br>
-🟣 <b>Алгоритмизация и MySQL</b><br>
+🟣 <b>Landing pages and web applications</b><br>
+🟣 <b>Chatbots for Discord / Telegram</b><br>
+🟣 <b>AI voice assistants</b> <br>
+🟣 <b>Mass parsing of data from the network</b> <br>
+🟣 <b>Work and optimization of data / structures</b><br>
+🟣 <b>Algorithmization and MySQL</b><br>
 
 <br>
 
