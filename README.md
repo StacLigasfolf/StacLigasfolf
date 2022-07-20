@@ -25,9 +25,9 @@
     </tr>
     <tr>
         <td width="50%">
-            <a href="https://drive.google.com/file/d/1j9jBYtLyWD82LsY0xQ_yx2GsaZq6Tcg4/view?usp=sharing">
-                
-            </a>
+
+            <img src="https://drive.google.com/file/d/1j9jBYtLyWD82LsY0xQ_yx2GsaZq6Tcg4/view?usp=sharing" width="100%">
+
         </td>
         <td width="50%">
             <a href="https://cloud.githubusercontent.com/assets/5016978/6704171/2f236466-cd02-11e4-9b7d-22cc880b5e9d.png">
