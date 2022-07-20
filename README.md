@@ -1,4 +1,5 @@
-<img align="left" width="26px" src="https://cdn.kwork.ru/files/cover/11/13028550-1658145821_x1.jpg">
+<img width="100%" src="https://cdn.kwork.ru/files/cover/11/13028550-1658145821_x1.jpg">
+<br>
 # 🙋 Welcome ![](https://komarev.com/ghpvc/?username=StacLigasfolf)
 
 <b>Навожу порядок в хаосе, превращаю кофе в код, автоматизирую процессы, постоянно развиваюсь</b><br>
@@ -39,9 +40,3 @@
 <br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StacLigasfolf&layout=compact&text_color='purple'&title_color='purple'&border_color='red')
 <br>
-
-
-
-
-
-
