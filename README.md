@@ -44,9 +44,7 @@
 # Illustration
 <table>
    <tr> # web-app 
-      <td>website</td>
-   </tr>
-   <tr>
-      <td>Snake</td>
+      <td><img src="gifs.gif" alt=""></td>
+      <td><img src="" alt=""></td>
    </tr>
 </table>
