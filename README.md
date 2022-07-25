@@ -41,9 +41,12 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StacLigasfolf&langs_count=8)
 <br>
 
-<table>Illustration
+# Illustration
+<table>
    <tr> # web-app 
       <td>website</td>
+   </tr>
+   <tr>
       <td>Snake</td>
    </tr>
 </table>
