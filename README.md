@@ -1,5 +1,3 @@
-<img width="100%" src="sh.jpg">
-
 # 🙋 Welcome ![](https://komarev.com/ghpvc/?username=StacLigasfolf&color=blueviolet&style=for-the-badge)
 
 <b>I bring order to chaos, I turn coffee into code, I automate processes, I constantly develop</b><br>
