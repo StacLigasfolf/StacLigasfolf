@@ -44,7 +44,7 @@
 # Illustration
 <table>
    <tr> 
-      <td> snake <img src="gifs.gif" alt=""></td>
-      <td> landing <img src="web.gif" alt=""></td>
+      <td> <b>Snake</b> <img src="gifs.gif" alt=""></td>
+      <td> <b>Landing</b> <img src="web.gif" alt=""></td>
    </tr>
 </table>
