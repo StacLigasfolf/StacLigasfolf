@@ -1,4 +1,4 @@
-<img width="100%" src="https://cdn.kwork.ru/files/cover/11/13028550-1658145821_x1.jpg">
+<img width="100%" src="sh.jpg">
 
 # 🙋 Welcome ![](https://komarev.com/ghpvc/?username=StacLigasfolf&color=blueviolet&style=for-the-badge)
 
