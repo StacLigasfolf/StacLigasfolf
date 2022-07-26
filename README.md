@@ -43,8 +43,8 @@
 
 # Illustration
 <table>
-   <tr> # web-app 
+   <tr> 
       <td><img src="gifs.gif" alt=""></td>
-      <td><img src="" alt=""></td>
+      <td><img src="web.gif" alt=""></td>
    </tr>
 </table>
