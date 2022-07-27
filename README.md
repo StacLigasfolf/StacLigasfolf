@@ -43,6 +43,6 @@
 <table>
    <tr> 
       <td> <b>snake-js</b> <img src="gifs.gif" alt=""></td>
-      <td> <b>web-app</b> <img src="web.gif" alt=""></td>
+      <td> <b>landing-market</b> <img src="web.gif" alt=""></td>
    </tr>
 </table>
