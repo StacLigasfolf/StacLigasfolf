@@ -36,7 +36,7 @@
 # 🙂 GitHub Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=StacLigasfolf&show_icons=true&theme=radical&text_color='white')
 <br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StacLigasfolf&langs_count=8&text_color='red')
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StacLigasfol&langs_count=8&text_color='red')
 <br>
 
 # Illustration
