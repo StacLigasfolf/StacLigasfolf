@@ -20,6 +20,7 @@
 <img align="left" width="26px" src="https://img.icons8.com/color/344/django.png">
 <img align="left" width="26px" src="https://img.icons8.com/color/344/mysql-logo.png">
 <img align="left" width="26px" src="https://img.icons8.com/color/512/javascript.png">
+<img align="left" width="26px" src="https://img.icons8.com/fluency/512/node-js.png">
 <br>
 
 <br>
