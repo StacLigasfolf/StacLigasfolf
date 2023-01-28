@@ -19,7 +19,9 @@
 <img align="left" width="26px" src="https://img.icons8.com/color/344/python--v1.png">
 <img align="left" width="26px" src="https://img.icons8.com/color/344/django.png">
 <img align="left" width="26px" src="https://img.icons8.com/color/344/mysql-logo.png">
+<img align="left" width="26px" src="https://icons8.ru/icon/108784/javascript">
 <br>
+
 <br>
 🟣 <b>Landing pages and web applications</b><br>
 🟣 <b>Chatbots for Discord / Telegram</b><br>
