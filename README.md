@@ -7,7 +7,7 @@
 # 😁 About me
 <br>
  <b>
-    ✌️ Hello, my name is Ashot and I am 22 years old, I have been programming for 1 year, I am studying new technologies and moving along my path in IT <br>
+    ✌️ Hello, my name is Ashot and I am 23 years old, I have been programming for 1 year, I am studying new technologies and moving along my path in IT <br>
     🎓I have freelancing experience, faced such tasks as: Landing pages, Chatbots for Discord / Telegram, Web applications, voice assistants, data parsing.
      At the moment I am studying at GeekBrains to better understand the concept of development and work in a team, as well as improve my knowledge and skills. <br>
     👩‍💻 At the moment I am working on an online store and a voice assistant. <br>
